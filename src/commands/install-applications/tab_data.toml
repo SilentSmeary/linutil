@@ -1,0 +1,18 @@
+name = "Install Applications"
+
+[[data]]
+name = "Visual Studio Code"
+command = "bash -c \"$(curl -s https://raw.githubusercontent.com/ChrisTitusTech/mybash/main/setup.sh)\""
+
+[[data]]
+name = "Visual Studio Code Insiders"
+command = "bash -c \"$(curl -s https://raw.githubusercontent.com/ChrisTitusTech/mybash/main/setup.sh)\""
+
+[[data]]
+name = "Github Desktop"
+command = "bash -c \"$(curl -s https://raw.githubusercontent.com/ChrisTitusTech/mybash/main/setup.sh)\""
+
+[[data]]
+name = "Thorium AXV2"
+script = "thorium-axv2.sh"
+
